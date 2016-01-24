@@ -1,5 +1,6 @@
 ######[Submission for SwampHacks 2016]
 ![alt text](http://i.imgur.com/zSvMjIc.png)
+https://www.youtube.com/watch?v=8eIVhlA6g70
 ##Inspiration
 We came across the idea of Iris while exploring the unique ability of the Clarifai API to analyze images and parse them for descriptive tags. We broke Clarifai down into an equation: Picture + Clarifai = Tags. So why not flip that equation on its head and use tags to "create" a picture? Through the use of descriptive tags, Iris aurally illustrates a scene in the minds of the blind. After all, a picture is worth a thousand words.
 We also wanted to challenge ourselves to create an app that could be easily used by the visually impaired. By simply opening the app and sliding your device into your breast pocket with the camera peeking out, you're ready to go. Controls are simple with the Myo wristband, which enables the blind to interact with our app in a meaningful way.
